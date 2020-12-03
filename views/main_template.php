@@ -7,8 +7,8 @@
   <meta name="keywords" content="web design, affordable web design">
   <meta name="author" content="Nasrin Mohamadi">
   <title>Library | Welcome</title>
-  <link rel="stylesheet" type="text/css" href="../assets/css/_library.css">
-  <link href="../assets/font/css/all.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="assets/css/_library.css">
+  <link href="assets/font/css/all.css" rel="stylesheet">
 </head>
   <body>
     <header>
